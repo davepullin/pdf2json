@@ -16,7 +16,7 @@
       "request": "launch",
       "name": "my test",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/mine/mytest.js"
+      "program": "${file}"
     }
   ]
 }
